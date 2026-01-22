@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "collapse:block/collapse_electric_violet_cube"
+  }
+}

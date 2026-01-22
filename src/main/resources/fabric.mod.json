@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "collapse",
+  "version": "${version}",
+  "name": "collapse",
+  "description": "blippers",
+  "authors": [],
+  "contact": {},
+  "license": "unlicense",
+  "icon": "assets/collapse/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.everest.collapse.client.CollapseClient"
+    ],
+    "main": [
+      "com.everest.collapse.Collapse"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
