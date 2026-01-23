@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:white_wool"
-  },
-  "result": "collapse:collapse_deep_orange_cube",
-  "count": 1
-}
