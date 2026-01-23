@@ -14,7 +14,7 @@ public class CollapseItemGroups {
             Registries.ITEM_GROUP,
             Identifier.of("collapse", "collapse"),
             FabricItemGroup.builder()
-                    .icon(() -> new ItemStack(BlockRegistry.COLLAPSE_WHITE_CUBE))
+                    .icon(() -> new ItemStack(BlockRegistry.COLLAPSE_RED_CUBE))
                     .displayName(Text.literal("COLLAPSE!"))
                     .entries((context, entries) -> {
 

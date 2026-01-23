@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:white_wool"
+  },
+  "result": {
+    "id": "collapse:collapse_electric_purple_cube",
+    "count": 1
+  }
+}
