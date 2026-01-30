@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "collapse:block/collapse_blue_cube"
-  }
-}
