@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "collapse:collapse_lime_green_cube"
+  },
+  "result": {
+    "count": 1,
+    "id": "collapse:collapse_beige_cube"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "collapse:collapse_periwinkle_blue_cube"
+  },
+  "result": {
+    "count": 1,
+    "id": "collapse:collapse_violet_cube"
+  }
+}
