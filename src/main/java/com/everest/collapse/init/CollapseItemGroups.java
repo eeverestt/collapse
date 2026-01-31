@@ -27,7 +27,6 @@ public class CollapseItemGroups {
                         entries.add(BlockRegistry.COLLAPSE_BLUE_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_BROWN_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_BURGUNDY_CUBE);
-                        entries.add(BlockRegistry.COLLAPSE_BURNT_ORANGE_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_CANARY_YELLOW_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_CERULEAN_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_CHARTREUSE_CUBE);
@@ -40,7 +39,6 @@ public class CollapseItemGroups {
                         entries.add(BlockRegistry.COLLAPSE_DEEP_ORANGE_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_DEEP_PINK_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_DUSKY_BLUE_CUBE);
-                        entries.add(BlockRegistry.COLLAPSE_ELECTRIC_PURPLE_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_EMERALD_GREEN_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_GOLD_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_GRAY_CUBE);
@@ -67,7 +65,6 @@ public class CollapseItemGroups {
                         entries.add(BlockRegistry.COLLAPSE_VIOLET_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_WHITE_CUBE);
                         entries.add(BlockRegistry.COLLAPSE_YELLOW_CUBE);
-                        entries.add(BlockRegistry.COLLAPSE_YELLOW_GREEN_CUBE);
 
                     })
                     .build()

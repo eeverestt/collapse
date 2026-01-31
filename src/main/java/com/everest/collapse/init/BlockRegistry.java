@@ -36,7 +36,6 @@ public class BlockRegistry {
     public static final Block COLLAPSE_BLUE_CUBE = register("collapse_blue_cube");
     public static final Block COLLAPSE_BROWN_CUBE = register("collapse_brown_cube");
     public static final Block COLLAPSE_BURGUNDY_CUBE = register("collapse_burgundy_cube");
-    public static final Block COLLAPSE_BURNT_ORANGE_CUBE = register("collapse_burnt_orange_cube");
     public static final Block COLLAPSE_CANARY_YELLOW_CUBE = register("collapse_canary_yellow_cube");
     public static final Block COLLAPSE_CERULEAN_CUBE = register("collapse_cerulean_cube");
     public static final Block COLLAPSE_CHARTREUSE_CUBE = register("collapse_chartreuse_cube");
@@ -49,7 +48,6 @@ public class BlockRegistry {
     public static final Block COLLAPSE_DEEP_ORANGE_CUBE = register("collapse_deep_orange_cube");
     public static final Block COLLAPSE_DEEP_PINK_CUBE = register("collapse_deep_pink_cube");
     public static final Block COLLAPSE_DUSKY_BLUE_CUBE = register("collapse_dusky_blue_cube");
-    public static final Block COLLAPSE_ELECTRIC_PURPLE_CUBE = register("collapse_electric_purple_cube");
     public static final Block COLLAPSE_EMERALD_GREEN_CUBE = register("collapse_emerald_green_cube");
     public static final Block COLLAPSE_GOLD_CUBE = register("collapse_gold_cube");
     public static final Block COLLAPSE_GRAY_CUBE = register("collapse_gray_cube");
@@ -76,7 +74,6 @@ public class BlockRegistry {
     public static final Block COLLAPSE_VIOLET_CUBE = register("collapse_violet_cube");
     public static final Block COLLAPSE_WHITE_CUBE = register("collapse_white_cube");
     public static final Block COLLAPSE_YELLOW_CUBE = register("collapse_yellow_cube");
-    public static final Block COLLAPSE_YELLOW_GREEN_CUBE = register("collapse_yellow_green_cube");
 
     public static void init() {}
 }

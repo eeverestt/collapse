@@ -15,6 +15,9 @@
     ],
     "main": [
       "com.everest.collapse.Collapse"
+    ],
+    "fabric-datagen": [
+      "com.everest.collapse.gen.CollapseDataGenerator"
     ]
   },
   "depends": {
